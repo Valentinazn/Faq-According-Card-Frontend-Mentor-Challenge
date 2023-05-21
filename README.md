@@ -5,7 +5,7 @@
 
 
 
-![Immagine 2023-05-21 152027](https://github.com/Valentinazn/Faq-According-Card-Frontend-Mentor-Challenge/assets/85753606/10869b5b-f513-4f84-9c6b-4e5320e4a021
+![Immagine 2023-05-21 152027](https://github.com/Valentinazn/Faq-According-Card-Frontend-Mentor-Challenge/assets/85753606/10869b5b-f513-4f84-9c6b-4e5320e4a021)
 
 
 
@@ -30,7 +30,7 @@ Users should be able to:
 
 ## Link 💻
 
-- https://tracking-time-frontend-mentor-vz.netlify.app/
+- https://faq-according-card-frontend-mentor-vz.netlify.app/
 
 
 ## Build with 👷‍♀️
