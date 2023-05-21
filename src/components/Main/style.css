@@ -10,7 +10,8 @@
 
 .containerFaq::before {
   content: "";
-  background: url(images/illustration-woman-online-mobile.svg) no-repeat;
+  background: url(../../../images/illustration-woman-online-mobile.svg)
+    no-repeat;
   position: absolute;
   top: 0;
   left: 50%;
@@ -21,7 +22,7 @@
 
 .containerFaq::after {
   content: "";
-  background: url(images/bg-pattern-mobile.svg) no-repeat;
+  background: url(../../../images/bg-pattern-mobile.svg) no-repeat;
   width: 268px;
   height: 180px;
   position: absolute;
@@ -42,15 +43,15 @@
     max-width: 920px;
     min-height: 509px;
 
-    background: url(images/illustration-woman-online-desktop.svg) bottom 3.1rem
-        left -5.1rem no-repeat,
+    background: url(../../../images/illustration-woman-online-desktop.svg)
+        bottom 3.1rem left -5.1rem no-repeat,
       url(images/bg-pattern-desktop.svg) bottom -10rem left -36rem no-repeat;
     background-color: white;
   }
 
   .containerFaq::before {
     content: "";
-    background: url(images/illustration-box-desktop.svg);
+    background: url(../../../images/illustration-box-desktop.svg);
     width: 140px;
     height: 106px;
     top: 57%;
