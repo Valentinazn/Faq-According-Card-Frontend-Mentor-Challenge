@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  width: 100%;
+}
+
+body {
+  display: grid;
+  place-items: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  background: linear-gradient(to bottom, #b068e9, #6463e7);
+}
